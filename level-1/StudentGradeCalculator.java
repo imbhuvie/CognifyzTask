@@ -1,4 +1,3 @@
-package student.grade.calculator;
 
 import java.util.Scanner;
 

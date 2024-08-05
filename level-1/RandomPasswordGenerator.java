@@ -1,4 +1,3 @@
-package random.password.generator;
 
 import java.util.Random;
 import java.util.Scanner;
